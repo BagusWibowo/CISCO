@@ -1,0 +1,10 @@
+untuk masuk ke mode ke-2 menggunakan perintah enable
+masuk ke mode ke-3 menggunakan perintah configure terminal atau conf t
+memasukan nama hostname menggunakan perintah hostname ....
+memasukan pesan di awal startup menggunakan perintah banner motd & .... &
+memasukan password enkripsi menggunakan perintah enable secret
+memasukan password login caranya masuk ke line console 0
+lalu masukan perintah password ...
+setelah itu masukan perintah login
+copy settingan atau config yang sudah ada ke startup dengan memasukan perintah
+copy running-config startup-config

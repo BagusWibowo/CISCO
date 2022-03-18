@@ -1,0 +1,6 @@
+Beberapa catatan penting untuk latihan3 kali ini yaitu :
+1. Setiap perangkat pada jaringan komputer pada dasarnya hanya bisa berkomunikasi dengan
+    perangkat lain selama masih dalam Network address yg sama
+2. Router dapat menjembatani komunikasi antar perangkat yang mempunyai network address yg berbeda
+3. Router pada dasarnya adalah sebuah komputer yg memiliki network interface dengan network address yg berbeda-beda
+4. untuk setiap PC yg punya network address berbeda harus di setting default gateway yang terhubung ke router

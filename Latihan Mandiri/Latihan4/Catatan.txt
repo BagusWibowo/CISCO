@@ -1,0 +1,8 @@
+Beberapa catatan penting untuk latihan4 kali ini yaitu :
+1. Setiap perangkat pada jaringan komputer pada dasarnya hanya bisa berkomunikasi dengan perangkat lain
+selama berada dalam satu network address yang sama
+2. Router dapat digunakan untuk menjembatani komunikasi antar perangkat yang memiliki network address yang berbeda
+3. Router pada dasarnya adalah sebuah komputer yang memiliki beberapa network interface dengan network address yg berbeda-beda
+4. Setelah memastikan setiap pc terkoneksi dengan routernya, kita juga perlu melakukan konfigurasi default gateway pada setiap pc
+5. Dalam topologi yg menyertakan beberapa router dan network address berbeda, perlu dipastikan agar routing table pada setiap routernya sudah mencakup
+setiap network address
